@@ -1,0 +1,13 @@
+C:\Users\colombo.21191\Desktop\restCountries\restCountries\bin\Debug\restCountries.exe.config
+C:\Users\colombo.21191\Desktop\restCountries\restCountries\bin\Debug\restCountries.exe
+C:\Users\colombo.21191\Desktop\restCountries\restCountries\bin\Debug\restCountries.pdb
+C:\Users\colombo.21191\Desktop\restCountries\restCountries\obj\Debug\restCountries.csproj.AssemblyReference.cache
+C:\Users\colombo.21191\Desktop\restCountries\restCountries\obj\Debug\restCountries.Form1.resources
+C:\Users\colombo.21191\Desktop\restCountries\restCountries\obj\Debug\restCountries.Properties.Resources.resources
+C:\Users\colombo.21191\Desktop\restCountries\restCountries\obj\Debug\restCountries.csproj.GenerateResource.cache
+C:\Users\colombo.21191\Desktop\restCountries\restCountries\obj\Debug\restCountries.csproj.CoreCompileInputs.cache
+C:\Users\colombo.21191\Desktop\restCountries\restCountries\obj\Debug\restCountries.exe
+C:\Users\colombo.21191\Desktop\restCountries\restCountries\obj\Debug\restCountries.pdb
+C:\Users\colombo.21191\Desktop\restCountries\restCountries\bin\Debug\Newtonsoft.Json.dll
+C:\Users\colombo.21191\Desktop\restCountries\restCountries\bin\Debug\Newtonsoft.Json.xml
+C:\Users\colombo.21191\Desktop\restCountries\restCountries\obj\Debug\restCountries.csproj.CopyComplete
